@@ -1,102 +1,118 @@
-<!-- HEADER BANNER -->
+<!-- 🌌 NEON ANIME CYBERPUNK HEADER -->
 <p align="center">
-  <img src="https://i.imgur.com/oZ7z4Nb.gif" width="700"/>
+  <img src="https://i.ibb.co/xhL1gnF/anime-hacker-banner-2.gif" width="100%" />
 </p>
 
 <h1 align="center">🌙 Hey, I'm <b>Sameer Meshram</b> — Welcome to My Cyber Realm ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&vCenter=true&width=600&lines=AI+%7C+Machine+Learning+Student;Aspiring+Agent+AI+Engineer;Cybersecurity+%7C+Cloud+Explorer;Building+Cool+Projects+Everyday;Anime+Lover+%7C+Tech+Enthusiast+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&vCenter=true&width=700&lines=AI+%7C+ML+Student;Agent+AI+Developer;Cybersecurity+Enthusiast;Cloud+Explorer;Anime+Lover+⚔️;Building+Projects+Everyday+🚀" />
 </p>
 
 ---
 
-# 🧬 **About Me**
+# 🧬 About Me
 
-> “A curious mind wandering between AI algorithms & anime worlds.”
+> *“A curious mind wandering between AI algorithms & anime universes.”*
 
-✨ Hi! I’m **Sameer Meshram**, a **B.Tech AI & ML student**  
-⚡ Passionate about **ML, Agent AI Systems, Computer Vision & Cybersecurity**  
-🚀 Obsessed with **automation, real-world projects, and futuristic tech**  
-🎌 Anime lover | 🎮 Gamer | 🛠️ Builder
+✨ **B.Tech AI & ML Student**  
+⚡ Exploring **Machine Learning, Agent AI, Cloud, Cybersecurity**  
+🚀 Passionate about building real, impactful AI projects  
+🎌 Anime Lover | 🎮 Gamer | 🛠️ Project Builder  
+📍 India  
 
 ---
 
-# 🎌 **Anime Hacker Vibe**
+# 🎌 Anime Hacker Vibes  
 <p align="center">
-  <img src="https://i.pinimg.com/originals/79/cf/9c/79cf9cd967afbc6d3a1dcfef232f79c1.gif" width="600">
+  <img src="https://i.ibb.co/4R5Lk57/anime-hacker-blue.gif" width="500">
 </p>
 
 ---
 
-# 🛠️ **Tech Arsenal**
-### ⚡ Languages & Tools  
-- 🐍 Python  
-- ☁️ Google Cloud  
-- 🤖 AI/ML, Deep Learning  
-- 📦 Git & GitHub  
-- 🖥️ Streamlit, FastAPI  
-- 💻 Linux, VS Code  
+# 🛠️ Tech Stack & Tools
+
+### 🚀 Languages  
+- Python  
+- JavaScript  
+
+### ⚡ AI & Cloud  
+- Machine Learning  
+- Computer Vision  
+- Agent AI  
+- Google Cloud  
+
+### 🛠️ Tools  
+- Git & GitHub  
+- VS Code  
+- Streamlit  
+- Jupyter  
+- Linux  
 
 ---
 
-# 🚀 **Currently Building**
-✨ **Future Price Prediction System** (Helping Farmers)  
-✨ **Agent AI Chatbot**  
-✨ **Object Detection on Raspberry Pi**  
-✨ **Food Delivery Full-Stack Project**  
-✨ **Power BI Dashboards**  
+# 🚀 Featured Projects
+
+### 🔮 **Future Price Prediction (For Farmers)**  
+AI model that predicts future prices of vegetables & pulses.
+
+### 🤖 **Agent AI Chatbot**  
+Smart agent-based conversational system.
+
+### 🎥 **Raspberry Pi Object Detection**  
+Real-time object detection with Pi + OpenCV + Python.
+
+### 🍔 **Food Delivery Web App**  
+Backend + UI + user flow + authentication.
+
+### 📊 **Power BI Dashboards**  
+Data analytics visualizations.
 
 <p align="center">
-  <img src="https://i.gifer.com/31y6.gif" width="350">
+  <img src="https://i.ibb.co/cNf5w7M/cyberpunk-loading.gif" width="250">
 </p>
 
 ---
 
-# 🎯 **My Interests**
-- 🧠 Artificial Intelligence  
-- 🟣 Cybersecurity  
-- 🛰️ Cloud Computing  
-- 🔥 Anime-inspired Tech Art  
-- 🧩 Real-world Problem Solving  
-- 🎮 GTA, Minecraft, Anime, Coding Music  
+# 🎯 Interests
+
+- 🤖 Artificial Intelligence  
+- 🔐 Cybersecurity  
+- ☁️ Cloud Computing  
+- ⚔️ Anime + Tech Art  
+- 🧠 System Design  
+- 🎮 GTA, Minecraft, Anime OST  
 
 ---
 
-# 📊 **GitHub Stats**
+# 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sameer-meshram&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameer-meshram&theme=tokyonight&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sameer-meshram&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameer-meshram&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer-meshram&layout=compact&theme=radical&hide_border=true" width="40%">
-</p>
-
----
-
-# 🎨 **Animated Contribution Graph**
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sameer-meshram&theme=react-dark&hide_border=true&area=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer-meshram&layout=compact&theme=tokyonight&hide_border=true" width="40%">
 </p>
 
 ---
 
-# 🧩 **Fun Animated Section**
+# 🧩 Fun Anime Section
 <p align="center">
-  <img src="https://i.imgur.com/g4bQe1G.gif" width="300">
+  <img src="https://i.ibb.co/1dCzkgF/itachi-cyber.gif" width="320">
 </p>
 
-> “Code like Itachi: Calm. Precise. Powerful.”
+> *“Code like Itachi: Calm. Precise. Powerful.”*
 
 ---
 
-# 📫 **Contact**
-🌐 Feel free to check out my work & reach out anytime!  
-📥 Open to collaborations, ideas, and hacking cool projects together.
+# 🌐 Contact  
+💬 Open to collaborations & cool projects  
+📥 Feel free to reach out anytime  
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/a9/0d/03/a90d03d028e4dad6f79086c15967e0da.gif" width="280">
+  <img src="https://i.ibb.co/TvFX3gt/anime-samurai-blue.gif" width="300">
 </p>
 
 ---

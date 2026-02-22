@@ -33,7 +33,7 @@
 - 🔭 B.Tech (AI & ML) student building real-world AI systems.  
 - 🤖 Focus: Machine Learning, Agent AI, Computer Vision, Edge AI.  
 - ☁️ Cloud: Google Cloud skill-boosting & arcade challenger.  
-- 🎮 Anime fan, gamer, and creative coder — I combine design + ML + AI.  
+- 🎮 Anime fan, gamer, and creative coder — I combine design + ML.  
 - 📍 India — always building, learning, and collaborating.
 
 ---

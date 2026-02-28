@@ -15,17 +15,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&vCenter=true&width=700&lines=AI+%7C+ML+Student;Agent+AI+Developer;Cybersecurity+Enthusiast;Cloud+Explorer;Anime+Lover+⚔️;Building+Projects+Everyday+🚀" alt="typing" />
 </p>
 
----
 
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Portfolio-Visit-blue?logo=google-chrome)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](#)
-[![Mail](https://img.shields.io/badge/Email-hello%40sameer-email-informational?logo=gmail)](#)
-
-</div>
-
----
 
 ## 🧬 About Me
 > *“A curious mind wandering between AI algorithms & anime universes.”*

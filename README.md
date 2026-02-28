@@ -37,7 +37,7 @@
 ---
 
 ## 🚀 Featured Projects
-> *Short cards — link these to your repos (replace `#` with repo URLs).*
+
 
 <p align="center">
   <a href="#" align="center" style="margin:8px;">

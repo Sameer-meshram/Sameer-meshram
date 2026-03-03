@@ -104,8 +104,7 @@
 
 ---
 
-## 💬 Fun Quote
-> “Code like Itachi: Calm. Precise. Powerful.”
+
 
 <p align="center">
   <img src="https://i.ibb.co/1dCzkgF/itachi-cyber.gif" alt="itachi" width="300" />

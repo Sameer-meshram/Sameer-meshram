@@ -1,131 +1,117 @@
 <!-- =========================
-     SAMEER MESHRAM — PROFILE
-     Neon Anime / Cyberpunk Theme
-     All images hosted on reliable CDN
+   SAMEER MESHRAM — GITHUB PROFILE
+   AI/ML | Agent AI | Computer Vision
    ========================= -->
 
-<!-- HEADER BANNER -->
+<h1 align="center">Hi, I'm Sameer Meshram 👋</h1>
+
 <p align="center">
-  <img src="https://i.ibb.co/xhL1gnF/anime-hacker-banner-2.gif" alt="neon banner" width="100%" />
+AI & Machine Learning Student | Agent AI Developer | Computer Vision Enthusiast
 </p>
 
-<h1 align="center">🌙 Hey, I'm <b>Sameer Meshram</b> — Welcome to My Cyber Realm ⚡</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&vCenter=true&width=700&lines=AI+%7C+ML+Student;Agent+AI+Developer;Cybersecurity+Enthusiast;Cloud+Explorer;Anime+Lover+⚔️;Building+Projects+Everyday+🚀" alt="typing" />
-</p>
-
-
-
-## 🧬 About Me
-> *“A curious mind wandering between AI algorithms & anime universes.”*
-
-- 🔭 B.Tech (AI & ML) student building real-world AI systems.  
-- 🤖 Focus: Machine Learning, Agent AI, Computer Vision, Edge AI.  
-- ☁️ Cloud: Google Cloud skill-boosting & arcade challenger.  
-- 🎮 Anime fan, gamer, and creative coder — I combine design + ML.  
-- 📍 India — always building, learning, and collaborating.
-
----
-
-## 🛠 Tech Stack & Tools
-**Languages:** Python · JavaScript  
-**ML & Tools:** TensorFlow / PyTorch · OpenCV · scikit-learn · Jupyter · Streamlit  
-**Cloud / DevOps:** Google Cloud · Git · GitHub · Docker (basics)  
-**OS / Editor:** Linux · VS Code
-
----
-
-## 🚀 Featured Projects
-
-
-<p align="center">
-  <a href="#" align="center" style="margin:8px;">
-    <img src="https://img.shields.io/badge/Future%20Price-Prediction-8A2BE2?logo=tensorflow" alt="future-price" />
-    <div>Future Price Prediction — ML for farmers</div>
-  </a>
-  <a href="#" align="center" style="margin:8px;">
-    <img src="https://img.shields.io/badge/Agent%20AI-Chatbot-00BFFF?logo=dialogflow" alt="agent-ai" />
-    <div>Agent AI Chatbot — multi-agent flow</div>
-  </a>
-  <a href="#" align="center" style="margin:8px;">
-    <img src="https://img.shields.io/badge/RPi-Object%20Detection-32CD32?logo=raspberry-pi" alt="rpi-od" />
-    <div>Raspberry Pi Object Detection</div>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00ADEF&center=true&vCenter=true&width=600&lines=AI+%7C+ML+Student;Agent+AI+Developer;Computer+Vision+Explorer;Cloud+%26+Edge+AI+Learner" />
 </p>
 
 ---
 
-## 🎌 Aesthetic Section
-<p align="center">
-  <img src="https://i.ibb.co/4R5Lk57/anime-hacker-blue.gif" alt="anime-hacker" width="550" />
-</p>
+# 👨‍💻 About Me
 
-> *I build practical AI systems with a touch of neon aesthetics.*
-
----
-
-## 📊 GitHub Stats (works with fallback)
-<p align="center">
-  <!-- Profile & main stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sameer-meshram&theme=react-dark" alt="profile-cards" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Sameer-meshram&show_icons=true&theme=tokyonight&hide_border=true" alt="github-stats" width="48%" />
-</p>
-
-<p align="center">
-  <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer-meshram&layout=compact&theme=tokyonight&hide_border=true" alt="top-langs" width="40%" />
-</p>
-
-<!-- Fallback badges (reliable) -->
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-Active-brightgreen" alt="active"/>
-  <img src="https://img.shields.io/badge/Contributions-Frequent-blueviolet" alt="contribs"/>
-</p>
+- 🎓 B.Tech student specializing in **Artificial Intelligence & Machine Learning**
+- 🤖 Interested in **Machine Learning, Agent AI, and Computer Vision**
+- ☁️ Exploring **Cloud AI deployment and Edge AI systems**
+- 🔬 Building practical ML projects focused on **real-world applications**
+- 📍 Based in India
 
 ---
 
-## 🔭 Currently Learning
-- Agent-based AI systems & multi-agent coordination  
-- Productionizing models on cloud (GCP) & edge inference on Raspberry Pi  
-- Cybersecurity basics to make my apps safer
+# 🛠 Technical Skills
+
+### Programming
+- Python
+- JavaScript
+
+### Machine Learning / AI
+- TensorFlow
+- PyTorch
+- Scikit-Learn
+- OpenCV
+- Jupyter Notebook
+- Streamlit
+
+### Cloud & Tools
+- Google Cloud Platform
+- Git & GitHub
+- Docker (Basics)
+
+### Environment
+- Linux
+- VS Code
 
 ---
 
-## 🎯 Interests & Hobbies
-- AI / ML / Computer Vision  
-- Cybersecurity & cloud infrastructure  
-- Graphics, anime art, game soundtracks  
-- Gaming (GTA, Minecraft) & sketching
+# 🚀 Featured Projects
+
+### 🌾 Future Price Prediction
+Machine learning model designed to help farmers forecast crop prices.
+
+**Tech:** Python, Scikit-Learn, Pandas
+
+---
+
+### 🤖 Agent AI Chatbot
+Multi-agent chatbot architecture for intelligent conversation flows.
+
+**Tech:** Python, LLM APIs, Agent frameworks
+
+---
+
+### 📷 Raspberry Pi Object Detection
+Edge AI project performing real-time object detection on Raspberry Pi.
+
+**Tech:** Python, OpenCV, TensorFlow Lite
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://i.ibb.co/cNf5w7M/cyberpunk-loading.gif" alt="loading" width="240" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sameer-meshram&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer-meshram&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+
 </p>
 
 ---
 
+# 📚 Currently Learning
 
+- Multi-Agent AI systems  
+- Edge AI deployment  
+- Cloud ML pipelines (GCP)  
+- Cybersecurity fundamentals  
+
+---
+
+# 🎯 Interests
+
+- Artificial Intelligence & Machine Learning
+- Computer Vision
+- Cloud Infrastructure
+- Anime & digital art
+- Gaming and creative coding
+
+---
+
+# 📫 Connect With Me
+
+- LinkedIn: (add link)
+- Email: (add email)
+- Twitter / X: (optional)
+
+---
 
 <p align="center">
-  <img src="https://i.ibb.co/1dCzkgF/itachi-cyber.gif" alt="itachi" width="300" />
+⭐ If you like my projects, consider giving them a star!
 </p>
-
----
-
-## 📫 Contact / Socials
-<p align="center">
-  <a href="#" style="margin:6px;"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="linkedin"></a>
-  <a href="#" style="margin:6px;"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter" alt="twitter"></a>
-  <a href="#" style="margin:6px;"><img src="https://img.shields.io/badge/Email-sameer%40email-informational?logo=gmail" alt="email"></a>
-</p>
-
----
-
-<div align="center">
-  <img src="https://i.ibb.co/TvFX3gt/anime-samurai-blue.gif" alt="samurai" width="220" />
-</div>
-
----
-
-*Last updated: `2025-11-29`*
-

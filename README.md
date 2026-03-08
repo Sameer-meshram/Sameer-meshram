@@ -65,7 +65,7 @@ Machine learning model that predicts credit risk using financial data.
 ## 📫 Connect With Me
 
 * GitHub:(https://github.com/Sameer-meshram)
-* LinkedIn: Add your LinkedIn link
+* LinkedIn: www.linkedin.com/in/sameer-meshram08
 
 ---
 

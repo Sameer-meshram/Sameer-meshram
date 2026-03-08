@@ -1,117 +1,76 @@
-<!-- =========================
-   SAMEER MESHRAM — GITHUB PROFILE
-   AI/ML | Agent AI | Computer Vision
-   ========================= -->
 
-<h1 align="center">Hi, I'm Sameer Meshram 👋</h1>
+# 👋 Hi, I'm Sameer Meshram
 
-<p align="center">
-AI & Machine Learning Student | Agent AI Developer | Computer Vision Enthusiast
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00ADEF&center=true&vCenter=true&width=600&lines=AI+%7C+ML+Student;Agent+AI+Developer;Computer+Vision+Explorer;Cloud+%26+Edge+AI+Learner" />
-</p>
+🎓 AI & Machine Learning Student
+📍 G H Raisoni College of Engineering & Management, Jalgaon
+💻 Passionate about Artificial Intelligence, Data Science, and Software Development
+🚀 Always learning and building new projects
 
 ---
 
-# 👨‍💻 About Me
+## 🔥 GitHub Streak Stats
 
-- 🎓 B.Tech student specializing in **Artificial Intelligence & Machine Learning**
-- 🤖 Interested in **Machine Learning, Agent AI, and Computer Vision**
-- ☁️ Exploring **Cloud AI deployment and Edge AI systems**
-- 🔬 Building practical ML projects focused on **real-world applications**
-- 📍 Based in India
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SameerMeshram\&theme=tokyonight)
 
 ---
 
-# 🛠 Technical Skills
+## 📊 GitHub Stats
 
-### Programming
-- Python
-- JavaScript
-
-### Machine Learning / AI
-- TensorFlow
-- PyTorch
-- Scikit-Learn
-- OpenCV
-- Jupyter Notebook
-- Streamlit
-
-### Cloud & Tools
-- Google Cloud Platform
-- Git & GitHub
-- Docker (Basics)
-
-### Environment
-- Linux
-- VS Code
+![Sameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=SameerMeshram\&show_icons=true\&theme=tokyonight)
 
 ---
 
-# 🚀 Featured Projects
+## 📈 Contribution Graph
 
-### 🌾 Future Price Prediction
-Machine learning model designed to help farmers forecast crop prices.
-
-**Tech:** Python, Scikit-Learn, Pandas
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SameerMeshram\&theme=tokyo-night)
 
 ---
 
-### 🤖 Agent AI Chatbot
-Multi-agent chatbot architecture for intelligent conversation flows.
+## 🧠 Skills
 
-**Tech:** Python, LLM APIs, Agent frameworks
-
----
-
-### 📷 Raspberry Pi Object Detection
-Edge AI project performing real-time object detection on Raspberry Pi.
-
-**Tech:** Python, OpenCV, TensorFlow Lite
+* Python
+* Machine Learning
+* SQL
+* Java
+* Data Analysis
+* Git & GitHub
 
 ---
 
-# 📊 GitHub Statistics
+## 🚀 Projects
 
-<p align="center">
+### 🩺 AI Based Health Diagnosis
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sameer-meshram&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+Machine learning system that predicts diseases based on symptoms.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer-meshram&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+### 📈 Future Price Prediction
 
-</p>
+AI system that predicts future vegetable and pulse prices to help farmers and consumers.
 
----
+### 💳 Credit Risk Prediction
 
-# 📚 Currently Learning
-
-- Multi-Agent AI systems  
-- Edge AI deployment  
-- Cloud ML pipelines (GCP)  
-- Cybersecurity fundamentals  
+Machine learning model that predicts credit risk using financial data.
 
 ---
 
-# 🎯 Interests
+## 🌱 Currently Learning
 
-- Artificial Intelligence & Machine Learning
-- Computer Vision
-- Cloud Infrastructure
-- Anime & digital art
-- Gaming and creative coding
-
----
-
-# 📫 Connect With Me
-
-- LinkedIn: (add link)
-- Email: (add email)
-- Twitter / X: (optional)
+* Deep Learning
+* Neural Networks
+* Data Science
+* AI Model Deployment
 
 ---
 
-<p align="center">
-⭐ If you like my projects, consider giving them a star!
-</p>
+## 📫 Connect With Me
+
+* GitHub:(https://github.com/Sameer-meshram)
+* LinkedIn: Add your LinkedIn link
+
+---
+
+⭐ **Fun Fact:**
+I believe AI can solve real-world problems in agriculture, healthcare, and finance.
+
+---
+

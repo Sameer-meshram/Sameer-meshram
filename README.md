@@ -14,11 +14,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Sameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=SameerMeshram\&show_icons=true\&theme=tokyonight)
-
----
 
 ## 📈 Contribution Graph
 
